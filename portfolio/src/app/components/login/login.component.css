@@ -1,0 +1,15 @@
+.container{
+    width: 30%;
+    margin-top: 2rem;
+    padding: 5rem;
+
+    color: white;
+
+    border-radius: 15px;
+
+    background-color: rgb(34, 34, 34);
+}
+
+.submit{
+    align-content: center;
+}
